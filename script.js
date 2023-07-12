@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function () {
   var modeSwitch = document.querySelector('.mode-switch');
 
